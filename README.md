@@ -1,1 +1,2 @@
 # DeepLearning-AnimalClassifier
+In the Smart Animal Identifier project, we use a smart computer program to figure out what animals are in pictures. We teach the program using a special technology called TensorFlow and a type of brain called EfficientNet. This helps us quickly and accurately recognize different animals in photos. Our goal is to help scientists and people who take care of nature easily keep track of animals and protect them better.
